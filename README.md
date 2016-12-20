@@ -5,7 +5,8 @@
 [__>Google!__](http://google.com)
 
 
-As Kanye West said:
 
-> We're living the future so
-> the present is our past.
+Fun Fact:
+
+> We are living the future so
+> this present is our past.
