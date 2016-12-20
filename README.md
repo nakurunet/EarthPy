@@ -24,8 +24,7 @@ Made | @at
 ----- | -----
  ~~not~~ | Home
  
- ```
- def my_fun():
+ ```def my_fun():
   print "Mark my Code!"
  my_fun()
  ```
