@@ -13,7 +13,7 @@ Fun Fact:
 
 
 I tse a
-`Hommmade` item.
+`Hommmade` Verb.
 
 `I mean
 ; 
