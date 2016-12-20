@@ -16,6 +16,9 @@ I tse a
 `Hommmade` item.
 
 ```I mean;
-``` - [x] Made | @at 
+``` 
+- [x] Mark 
+- [] My Words
+Made | @at 
 -------|-------
- ~~not~~ Home
+ ~~not~~ | Home
